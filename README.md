@@ -1,2 +1,1 @@
-# Codewars
-Codewars training
+Welcome to my Codewars Solutions repository! Here, you'll find a collection of my solutions to various programming challenges from Codewars. Codewars is a platform that allows developers to improve their coding skills by solving coding katas, and I've been using it to sharpen my programming abilities regularly
